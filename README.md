@@ -3,7 +3,7 @@ If you want to browse the Internet without advertisement and without "Please tur
 
 The scripts in this repository ease the docker installation, the configuration and the execution of the Pi-Hole container.
 
-All credit goes to the Pi-Hole project.
+For more info visit to the Pi-Hole webite.
 
 https://pi-hole.net/
 
